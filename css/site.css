@@ -1,0 +1,29 @@
+main {
+    background-color: gainsboro
+}
+
+.main-logo img{
+    border-radius: 56%; 
+    width: 375px;
+}
+
+.pg2-logo img {
+    display: block;
+    margin: auto;
+    padding: align-self auto;
+    width: 30%;
+}
+
+.pg3-logo img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+aside{
+    background-color: greenyellow
+}
+
+article{
+    background: lightsteelblue;
+    backface-visibility: 30%; 
+}
