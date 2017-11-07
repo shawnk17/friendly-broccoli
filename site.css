@@ -2,9 +2,9 @@ main {
     background-color: gainsboro
 }
 
-.sdl-logo imp{
-    width: 20;
-    height: 20; 
+.main-logo img{
+    border-radius: 50%; 
+    width: 200px;
 }
 
 aside{
@@ -12,5 +12,5 @@ aside{
 }
 
 nav{
-    backface-visibility: 47;
+    backface-visibility: 70%;
 }
