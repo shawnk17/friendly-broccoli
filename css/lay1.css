@@ -1,0 +1,27 @@
+ul {
+    border: 2px solid #646060;
+    background-color: #f3f3f3;
+}
+
+nav ul li {
+    margin-right: 3rem;
+    color: turquoise;
+    text-decoration: honeydew;
+}
+
+footer {
+    background-color: rgb(50, 148, 205);
+}
+
+li a {
+    
+    color: #666;
+}
+
+main, aside, ul, nav {
+    float: left;
+}
+
+footer, #primary-content {
+    clear: both;
+}

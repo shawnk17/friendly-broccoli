@@ -1,0 +1,5 @@
+#primary-content,
+nav,
+nav ul li {
+    display: flex;
+}
