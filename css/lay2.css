@@ -19,3 +19,7 @@ footer {
     clear: both;
     background-color:palegoldenrod;
 }
+
+main {
+    display: flex;
+}
