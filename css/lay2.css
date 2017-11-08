@@ -1,5 +1,21 @@
-#primary-content,
+body{
+    background-color: azure;
+}
 nav,
-nav ul li {
+nav ul {
     display: flex;
+    list-style: none;
+    padding: none;
+    
+   
+}
+nav ul li {
+    padding: .2rem;
+    margin-inline-start: .1rem;
+    justify-content: space-around;
+    
+}
+footer {
+    clear: both;
+    background-color:palegoldenrod;
 }
