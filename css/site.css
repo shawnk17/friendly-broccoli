@@ -2,6 +2,15 @@ main {
     background-color: gainsboro
 }
 
+/* ul {
+    border: 2px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li a {
+    color: #666;
+} */
+
 .main-logo img{
     border-radius: 56%; 
     width: 375px;
