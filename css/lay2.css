@@ -5,21 +5,28 @@ nav,
 nav ul {
     display: flex;
     list-style: none;
-    padding: none;
-    
+    padding: none; 
    
 }
 nav ul li {
     padding: .2rem;
     margin-inline-start: .1rem;
     justify-content: space-around;
-    
-}
+    }
+
+ nav ul li a{
+     color: blueviolet;
+ }   
+ nav ul li a:hover{
+    color: red;
+}  
+
+ 
 footer {
     clear: both;
     background-color:palegoldenrod;
 }
 
-main {
+#rapper {
     display: flex;
 }
